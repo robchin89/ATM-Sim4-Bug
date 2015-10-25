@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- CodePro v6.1 report, generated Wed Oct 21 22:54:38 EDT 2015 -->
+
+<report>
+  <stats>
+    <packages value="1"/>
+    <classes value="1"/>
+    <methods value="2"/>
+    <srcfiles value="1"/>
+    <srclines value="19"/>
+  </stats>
+  <data>
+    <all name="all classes">
+      <coverage type="class, %" value="0%   (0/1)"/>
+      <coverage type="method, %" value="0%   (0/2)"/>
+      <coverage type="block, %" value="0%   (0/79)"/>
+      <coverage type="line, %" value="0%   (0/19)"/>
+
+      <package name="main">
+        <coverage type="class, %" value="0%   (0/1)"/>
+        <coverage type="method, %" value="0%   (0/2)"/>
+        <coverage type="block, %" value="0%   (0/79)"/>
+        <coverage type="line, %" value="0%   (0/19)"/>
+
+        <srcfile name="ATMMain.java">
+          <coverage type="class, %" value="0%   (0/1)"/>
+          <coverage type="method, %" value="0%   (0/2)"/>
+          <coverage type="block, %" value="0%   (0/79)"/>
+          <coverage type="line, %" value="0%   (0/19)"/>
+
+          <class name="ATMMain">
+            <coverage type="class, %" value="0%   (0/1)"/>
+            <coverage type="method, %" value="0%   (0/2)"/>
+            <coverage type="block, %" value="0%   (0/79)"/>
+            <coverage type="line, %" value="0%   (0/19)"/>
+
+            <method name="ATMMain (): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/3)"/>
+              <coverage type="line, %" value="0%   (0/1)"/>
+            </method>
+            <method name="main (String []): void">
+              <coverage type="method, %" value="0%   (0/1)"/>
+              <coverage type="block, %" value="0%   (0/76)"/>
+              <coverage type="line, %" value="0%   (0/18)"/>
+            </method>
+          </class>
+        </srcfile>
+      </package>
+    </all>
+  </data>
+</report>
